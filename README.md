@@ -8,6 +8,9 @@ As per Claude:
 
 I burned 67k tokens for this, your welcome.
 
+## How to use
+Using claude in this directory, ask it questions relating to club activities in SAIT, it will grab the necessary information to respond to your question accordingly.
+
 ## Bigger Picture
 
 FYI - This is ONLY a chunk to a project I have, but I believe this one in particular can be beneficial for those with the technical foundations to understand what it can be used for.
